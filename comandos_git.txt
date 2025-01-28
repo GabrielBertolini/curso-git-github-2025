@@ -4,3 +4,5 @@ git commit -m "msg" -> faz commit do que estava para ser comitado
 git add_nome_arquivo -> adiciona arquivo para ser comm
 itado
 git log -> mostra todo historico de commit
+
+git diff
