@@ -6,3 +6,14 @@ itado
 git log -> mostra todo historico de commit
 
 git diff
+
+##fluxo de trabalho
+1.criar o diretorio(pasta) do projeto
+2. iniciar o git dentro do diretorio criado (git init .)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta p passo 3
