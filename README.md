@@ -14,7 +14,6 @@ Vai ser legal ter você por perto.
 Além do nosso YouTube se ligue no nosso site e agenga para ficar por dentro de tudo que vai rolar em 2025.
 
 [teomewhy.org] (https://teomewhy.org/schedule)
-aaaa
 
 ## Fluxo de trabalho Git local
 
