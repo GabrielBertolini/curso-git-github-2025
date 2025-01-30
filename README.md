@@ -9,7 +9,12 @@ Confira tudo no YouTube, é grátis! Segue o link:
 
 Acompanhe nossas redes socias e tudo o que está por vir no nosso 2025.
 
-Vai ser muito legal ter você por perto.
+Vai ser legal ter você por perto.
+
+Além do nosso YouTube se ligue no nosso site e agenga para ficar por dentro de tudo que vai rolar em 2025.
+
+[teomewhy.org] (https://teomewhy.org/schedule)
+aaaa
 
 ## Fluxo de trabalho Git local
 
