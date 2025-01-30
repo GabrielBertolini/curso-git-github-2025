@@ -2,6 +2,15 @@
 
 Curso para aprender a trabalhar com versionamento de código e repositórios remotos com GitHub, Git Flow e Visual Studio Code.
 
+
+Confira tudo no YouTube, é grátis! Segue o link:
+
+[Curso Git 2025] (https://youtube.com/)
+
+Acompanhe nossas redes socias e tudo o que está por vir no nosso 2025.
+
+Vai ser muito legal ter você por perto.
+
 ## Fluxo de trabalho Git local
 
 1. git checkout -b <nova branch>
